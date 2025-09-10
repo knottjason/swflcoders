@@ -1,6 +1,6 @@
 # swflcoders
 
-
+```
 ├── Cargo.lock                    # Rust dependency lock file ensuring reproducible builds
 ├── Cargo.toml                    # Rust project configuration and dependency definitions
 ├── README.md                     # Project documentation and setup instructions
@@ -16,6 +16,6 @@
 │   ├── integ                     # Integration tests for API and service interactions
 │   └── types                     # Shared TypeScript type definitions across the project
 └── yarn.lock                     # Package manager lock file for consistent dependency versions
-
+```
 
 Simple example package to show the various parts of a application be deployed via CodePipeline.
