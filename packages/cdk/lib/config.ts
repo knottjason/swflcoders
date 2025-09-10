@@ -101,7 +101,7 @@ export const pipelineConfig: PipelineConfig = {
         owner: 'knottjason',
         repo: 'swflcoders',
         branch: 'master',
-        connectionArn: `arn:aws:codeconnections:us-east-1:${PIPELINE_ACCOUNT}:connection/0c67b716-153a-40ea-a009-6915f3cf5f7d`,
+        connectionArn: `arn:aws:codeconnections:us-east-1:${PIPELINE_ACCOUNT}:connection/a2ee3890-5cec-4e9c-8142-969f378727a6`,
     },
     // Fill in the Slack channel configuration ARN after you create/configure AWS Chatbot
     notifications: {
